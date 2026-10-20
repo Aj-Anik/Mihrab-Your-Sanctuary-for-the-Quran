@@ -4,7 +4,7 @@ A calm, light-themed Islamic web app for reading and listening to the Quran, wit
 
 **Live site: [mihrab.ajanik.dev](https://mihrab.ajanik.dev)**
 
-![Mihrab home page](front-light.png)
+![Mihrab home page](screenshots/front-light.png)
 
 ## Features
 
@@ -44,11 +44,11 @@ A calm, light-themed Islamic web app for reading and listening to the Quran, wit
 
 | All 114 surahs | Prayer times |
 |---|---|
-| ![All 114 surahs](all114surahs.png) | ![Prayer times](prayertime.png) |
+| ![All 114 surahs](screenshots/all114surahs.png) | ![Prayer times](screenshots/prayertime.png) |
 
 | 99 Names of Allah | Dark mode (optional) |
 |---|---|
-| ![99 Names of Allah](all99names.png) | ![Dark mode](front-dark.png) |
+| ![99 Names of Allah](screenshots/all99names.png) | ![Dark mode](screenshots/front-dark.png) |
 
 ## Built with
 
